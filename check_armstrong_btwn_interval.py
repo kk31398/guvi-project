@@ -1,5 +1,5 @@
 x,y=[int(a) for a in input().split()]
-for num in range(x,y+1):
+for num in range(x,y):
 
     sum = 0
     temp = num
